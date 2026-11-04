@@ -1,21 +1,3 @@
-
-# Damage-Report__pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
-.env
-.env.*
-*.xlsx
-*.xls
-*.pdf
-*.docx
-*.jpg
-*.jpeg
-*.png
-*.mov
-*.mp4
-*.zip
-
 # shutter-remake
 
 用于 Codex 的透气窗售后 Skill，支持订单12列汇总和 Damage Report 中英对照Excel。
